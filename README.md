@@ -23,7 +23,7 @@ SO THAT my company can compete with other e-commerce companies
 ```
 ## Demo Video 
 
-🎥 The full video file showing functionality of the application can be found here: [link]( PUT LINK HERE) <br/>
+🎥 The full video file showing functionality of the application can be found here: [link](https://drive.google.com/drive/u/0/my-drive) <br/>
 
 ![Screen Recording](Assets/ecommercedemo.gif)
 
