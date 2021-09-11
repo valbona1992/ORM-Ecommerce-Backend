@@ -25,19 +25,19 @@ SO THAT my company can compete with other e-commerce companies
 
 🎥 The full video file showing functionality of the application can be found here: [link]( PUT LINK HERE) <br/>
 
-![Screen Recording](images/demo.gif)
+![Screen Recording](Assets/ecommercedemo.gif)
 
 ## Screenshots 
-A screenshot of the terminal using CML. 
-<img src="images/terminal1.png" alt="screenshot" />
-<img src="images/terminal2.png" alt="screenshot" />
+Screenshots of the terminal using CML and API routes in Insomnia. 
+<img src="Assets/Screenshot2.png" alt="screenshot" />
+<img src="Assets/Screenshot1.png" alt="screenshot" />
 
 ## Installation
 Run `npm install` to install application dependencies (express, sequelize, mysql, and dotenv).
 
 Create `.env` file to add password privacy. 
 ## Usage
-To run locally, use MYSQL to create the database from the schema folder, and from the command line, run `npm run seed`. Afterwards, run `npm start`. 
+To run locally, use MYSQL to create the database from the schema folder, and from the command line, run `npm run seed`. Afterwards, run `node server.js`. 
 
 Insomnia will be used to test routes on on http//:localhost:3001/.
 
